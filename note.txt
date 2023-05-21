@@ -1,0 +1,4 @@
+implement search post (by tag, by prompt, by user) done
+implement Click on Tag (search) done
+implement view other profiles done
+implement dark mode
